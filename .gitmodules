@@ -1,0 +1,12 @@
+[submodule "ConnexionSqlAlchemyDemoApi"]
+	path = ConnexionSqlAlchemyDemoApi
+	url = git@github.com:rinkaaan/ConnexionSqlAlchemyDemoApi.git
+[submodule "ConnexionSqlAlchemyDemoApiTests"]
+	path = ConnexionSqlAlchemyDemoApiTests
+	url = git@github.com:rinkaaan/ConnexionSqlAlchemyDemoApiTests.git
+[submodule "ConnexionSqlAlchemyDemoReactApp"]
+	path = ConnexionSqlAlchemyDemoReactApp
+	url = git@github.com:rinkaaan/ConnexionSqlAlchemyDemoReactApp.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
