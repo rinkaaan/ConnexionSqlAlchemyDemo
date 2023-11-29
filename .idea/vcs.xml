@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConnexionSqlAlchemyDemoApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConnexionSqlAlchemyDemoApiTests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConnexionSqlAlchemyDemoReactApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonUtils" vcs="Git" />
+  </component>
+</project>
