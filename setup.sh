@@ -16,7 +16,7 @@ pip install --upgrade pip
 
 (
   cd ConnexionSqlAlchemyDemoReactApp
+  npm install
   chmod +x scripts/*.sh
   scripts/gen.sh
-  npm install
 )
